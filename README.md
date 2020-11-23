@@ -1,0 +1,2 @@
+# FaceReco
+Face Recognition Library
