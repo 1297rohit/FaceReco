@@ -6,6 +6,7 @@ Face Recognition Library using Class based structure
 ## Installing
 pip install FaceReco
 
+## Description
 Face Recognition is a very popular topic. It has lot of use cases in the filed of biometric security. 
 Now a days with the help of Deep learning face recognition has become very feasible to people. 
 As deep learning is a very data intensive task and we may always not have such huge amount of data to work in case of face recognition 
