@@ -36,6 +36,6 @@ fr_object1.test_model("lfw_selected/face2/Johnny_Depp_0002.jpg")
 
 ```python
 fr_object2 =  fr.FaceReco()
-fr_object2.load_model("Model_Object_1") #folder to saved model
+fr_object2.load_model("Model_Object_1") #folder of saved model
 fr_object2.test_model("lfw_selected/face2/Johnny_Depp_0002.jpg")
 ``` 
